@@ -1,7 +1,7 @@
 {
   "name": "pronskiy/mcp",
   "description": "🐉 The fast, PHP way to build MCP servers",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "keywords": [
     "pronskiy",
     "mcp"
@@ -16,7 +16,7 @@
   ],
   "require": {
     "php": "^8.3",
-    "logiscape/mcp-sdk-php": "^v1.1.0"
+    "mcp/sdk": "dev-main"
   },
   "require-dev": {
     "phpstan/phpstan": "^2.1.12",
